@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I’m Ketan — a Software Engineer specializing in backend systems, cloud architecture, and data pipelines.
 
-### More Information
+🔧 Skilled in: FastAPI, Python, AWS, Docker, Redis, Terraform  
+🌍 Open to relocating to Amsterdam or working remotely
+📈 Recently built:  
+- A secure FastAPI + AWS Secret Manager + Redis app  
+- A RAG-based semantic search engine using LangChain  
+- Serverless ETL pipelines on AWS with PySpark + Airflow  
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Let’s connect — [GitHub](https://github.com/Ketz7) | [LinkedIn](https://linkedin.com/in/ketan-maurya-1b759517b)

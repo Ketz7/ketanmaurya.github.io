@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: Ketz7
   instagram:
-  linkedin: https://www.linkedin.com/in/ketan-maurya-1b759517b/
+  linkedin: ketan-maurya-1b759517b
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
@@ -84,3 +84,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+nav:
+  - title: "Projects"
+    url: /projects/
