@@ -9,7 +9,7 @@ name: Ketan Maurya
 description: "Software Engineer | AWS | FastAPI | Open to Relocation"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/avatar.jpg
+avatar: "/images/avatar.jpg"
 
 #
 # Flags below are optional
