@@ -8,6 +8,7 @@ Hi, I’m Ketan — a Software Engineer specializing in backend systems, cloud a
 
 🔧 Skilled in: FastAPI, Python, AWS, Docker, Redis, Terraform  
 🌍 Open to relocating to Amsterdam or working remotely
+
 📈 Recently built:  
 - A secure FastAPI + AWS Secret Manager + Redis app  
 - A RAG-based semantic search engine using LangChain  
